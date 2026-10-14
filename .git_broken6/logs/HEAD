@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 80b918de857c12b9f336df22f9be0370c8d99cef Rex <jennifer_trouble1986@mail.com> 1790690409 +0000	commit (initial): feat: complete practice 01 tasks and report
+80b918de857c12b9f336df22f9be0370c8d99cef 167fdff703e69bf5e256461a1d4789d826003db2 Rex <jennifer_trouble1986@mail.com> 1790690473 +0000	commit: chore: remove stray backup file
+167fdff703e69bf5e256461a1d4789d826003db2 7a3d0e3365cb10424d8251e96805b74510043495 Rex <jennifer_trouble1986@mail.com> 1790691253 +0000	commit: feat: implement practice 03 DOM app and report
+7a3d0e3365cb10424d8251e96805b74510043495 764e770b64adf0d6510b1b108dbf241898d11d6b Rex <jennifer_trouble1986@mail.com> 1791748455 +0000	commit: fix: use real student name, browser version, and full browser-checks protocol
+764e770b64adf0d6510b1b108dbf241898d11d6b 7add36b4b40a57752b37f8b75c17f5ba3fe19e20 Rex <jennifer_trouble1986@mail.com> 1791748471 +0000	commit: docs: add confirmed debug-breakpoint and app-pending-filter screenshots
